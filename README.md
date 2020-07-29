@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Eduardo Guillen
+
+![JHU](https://brand.jhu.edu/assets/uploads/sites/5/2016/01/university.logo_.small_.vertical.white_.png)
+
 
 <!--
 **eguillen2305/eguillen2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
