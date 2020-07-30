@@ -1,6 +1,9 @@
 ### Hi, I'm Eduardo Guillen
 
-![JHU](https://brand.jhu.edu/assets/uploads/sites/5/2016/01/university.logo_.small_.vertical.white_.png)
+Full Stack Developer based out of San Antonio, Texas. 
+
+
+![JHU](https://i.ytimg.com/vi/iued3RW2WM4/maxresdefault.jpg)
 
 
 <!--
