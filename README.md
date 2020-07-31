@@ -1,6 +1,8 @@
 ### Hi, I'm Eduardo Guillen
 
-Full Stack Developer based out of San Antonio, Texas. 
+Full Stack Developer born and raised in San Antonio, Texas. Graduated from UTSA with a BBA and officially beggining my MBA at Johns Hopkins Carey Business School this fall. 
+
+I have experience in inside sales of ERP SaaS solutions and I currently work in the wireless industry. 
 
 
 ![JHU](https://i.ytimg.com/vi/iued3RW2WM4/maxresdefault.jpg)
