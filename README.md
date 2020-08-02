@@ -2,7 +2,7 @@
 
 Full Stack Developer born and raised in San Antonio, Texas. Graduated from UTSA with a BBA and officially beggining my MBA at Johns Hopkins Carey Business School this fall. 
 
-![Banner](https://imgur.com/YC8jUPS)
+![Banner](/assets/Eguillen2305.jpg)
 
 I'm currently learning and rapidly expanding my Full Stack skills 🚀
 
