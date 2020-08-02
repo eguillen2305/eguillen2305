@@ -10,4 +10,4 @@ Skills Learned: JavaScript, jQuery, Node.js, Express, HTML5/CSS3, Bootstrap, Fou
 
 I have experience in inside sales of ERP SaaS solutions and I currently work in the wireless industry. 
 
-<img src="https://raw.githubusercontent.com/eguillen2305/eguillen2305/master/assets/Elise2.jpg" alt="My Dog Elise">
+<img src="https://raw.githubusercontent.com/eguillen2305/eguillen2305/master/assets/Elise.jpg" alt="My Dog Elise">
