@@ -6,7 +6,7 @@
 
 I'm currently learning and rapidly expanding my Full Stack skills 🚀
 
-Skills Learned: JavaScript, jQuery, Node.js, Express, HTML5/CSS3, Bootstrap, Foundation by Zurb, Git, Responsive Design, API/JSON, RESTful API, Firebase, MySQL, Ajax.
+Skills Learned: JavaScript, jQuery, Node.js, Express, HTML5/CSS3, Bootstrap, Foundation by Zurb, Git, Responsive Design, API/JSON, RESTful API, Firebase, MySQL, Ajax, React.js
 
 I have experience in inside sales of ERP SaaS solutions and I currently work in the wireless industry. 
 
