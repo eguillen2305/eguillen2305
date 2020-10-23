@@ -2,7 +2,7 @@
 
 ### Full Stack Developer born and raised in San Antonio, Texas. Graduated from UTSA with a BBA. Johns Hopkins MBA Carey Business School 23'
 
-### Portfolio: https://brave-roentgen-43975a.netlify.app/
+### Portfolio: https://tinyurl.com/y4ccnjao
 
 <img src="https://raw.githubusercontent.com/eguillen2305/eguillen2305/master/assets/Eguillen2305.jpg" alt="Banner">
 
