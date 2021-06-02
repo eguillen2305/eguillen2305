@@ -2,8 +2,7 @@
 
 ### Full Stack Developer born and raised in San Antonio, Texas
 
-### Portfolio: https://tinyurl.com/y4ccnjao
-
+### Portfolio: TBD
 <img src="https://raw.githubusercontent.com/eguillen2305/eguillen2305/master/assets/Eguillen2305.jpg" alt="Banner">
 
 I'm currently learning and rapidly expanding my Full Stack skills 🚀
